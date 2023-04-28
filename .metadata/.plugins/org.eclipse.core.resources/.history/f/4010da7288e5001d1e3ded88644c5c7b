@@ -148,6 +148,7 @@ public class Juego  extends JFrame{
 		g.fillRect(r.x,r.y,r.w,r.h);
 		
 		
+		
 		Rect p = new Rect(300,60,40,300,Color.decode("#D55400"));
 		g.setColor(p.c);
 		g.fillRect(p.x,p.y,p.w,p.h);
